@@ -22,6 +22,6 @@ Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](htt
 
 _________
 
-![SwimResults](https://swimresults.de/images/bg-large.jpg)
+![SwimResults](https://swimresults.de/images/bg.jpg)
 
 <center>&copy; 2022 - Konrad Weiß</center>
