@@ -22,4 +22,4 @@ Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](htt
 
 _________
 
-<center>&copy; 2022 - Konrad Weiß</center>
+<center>&copy; 2023 - Konrad Weiß</center>
