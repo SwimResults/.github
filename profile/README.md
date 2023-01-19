@@ -8,7 +8,7 @@ SwimResults ist eine Weiterentwicklung der Web-App des [Internationalen Erzgebir
 
 Konrad
 
-E-Mail: konrad@schwimmteamerzgebirge.de
+E-Mail: kontakt@swimresults.de
 
 
 
