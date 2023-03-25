@@ -18,7 +18,7 @@ Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](htt
 
  > Der Release von SwimResults ist für Ende 2023 geplant.
 
-![SwimResults](https://swimresults.de/images/bg.jpg)
+![SwimResults](https://swimresults.de/images/bg_logo.jpg)
 
 _________
 
