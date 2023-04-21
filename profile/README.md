@@ -10,6 +10,8 @@ Konrad
 
 E-Mail: kontakt@swimresults.de
 
+<iframe src="https://github.com/sponsors/konrad2002/card" title="Sponsor konrad2002" height="225" width="600" style="border: 0;"></iframe>
+
 
 
 # Status
