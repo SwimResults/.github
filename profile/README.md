@@ -18,6 +18,8 @@ E-Mail: kontakt@swimresults.de
 Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](https://status.swimresults.de).
 
  > Der Release von SwimResults ist für Ende 2023 geplant.
+ 
+Technische Informationen zum Projekt können in der [SwimResults/SwimResults/README.md](https://github.com/SwimResults/SwimResults#readme) gefunden werden.
 
 ![SwimResults](https://swimresults.de/images/bg_logo.jpg)
 
