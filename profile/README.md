@@ -25,4 +25,4 @@ Technische Informationen zum Projekt können in der [SwimResults/SwimResults/REA
 
 _________
 
-<center>&copy; 2023 - Konrad Weiß</center>
+<center>&copy; Copyright 2022-2023 - SwimResults & Konrad Weiß</center>
