@@ -1,6 +1,8 @@
 # Allgemein
 
-> `swimresults.de` befindet sich momentan im Aufbau.
+SwimResults ist eine Online-Plattform für Schwimmwettkämpfe, welche Daten von teilnehmenden Veranstaltungen aufbereitet und strukturiert zur Verfügung stellt. Mit SwimResults können Sportler, Trainer, Familie und Freunde Meldungen, Ergebnisse, sowie Livetimings und Auswertungen für verschiedene Sportler, Vereine und Veranstaltungen einsehen.
+
+Informationen zu SwimResults können auf der offiziellen Webseite gefunden werden: [swimresults.de](https://swimresults.de)
 
 SwimResults ist eine Weiterentwicklung der Web-App des [Internationalen Erzgebirgsschwimmcups](https://erzgebirgsschwimmcup.de), welche unter dem Namen [myIESC](https://my.erzgebirgsschwimmcup.de/about.php) bekannt ist.
 
@@ -17,7 +19,7 @@ E-Mail: kontakt@swimresults.de
 
 Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](https://status.swimresults.de).
 
- > Der Release von SwimResults ist für Ende 2023 geplant.
+ > SwimResults wurde Ende 2023 veröffentlicht.
  
 Technische Informationen zum Projekt können in der [SwimResults/SwimResults/README.md](https://github.com/SwimResults/SwimResults#readme) gefunden werden.
 
@@ -25,4 +27,4 @@ Technische Informationen zum Projekt können in der [SwimResults/SwimResults/REA
 
 _________
 
-<center>&copy; Copyright 2022-2023 - SwimResults & Konrad Weiß</center>
+<center>&copy; Copyright 2022-2024 - SwimResults & Konrad Weiß</center>
