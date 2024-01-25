@@ -17,7 +17,9 @@ E-Mail: kontakt@swimresults.de
 
 # Status
 
-Den aktuellen Stand der Entwicklung findet man unter [status.swimresults.de](https://status.swimresults.de).
+Der Serverstatus und Wartungsarbeiten sind unter [status.swimresults.de](https://status.swimresults.de/) zu finden.
+
+Den aktuellen Stand der Entwicklung findet man unter [entwicklung.swimresults.de](https://entwicklung.swimresults.de/).
 
  > SwimResults wurde Ende 2023 veröffentlicht.
  
